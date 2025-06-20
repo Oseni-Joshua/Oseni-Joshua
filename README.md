@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm [Your Name]!
+# 👋 Hey there, I'm [OSENI-JOSHUA-OLAKUNLE ]!
 
 Welcome to my corner of GitHub! I'm a curious developer who loves turning caffeine into code ☕💻. Whether I'm squashing bugs, building beautiful UIs, or exploring new frameworks, I'm always learning something new and having fun along the way!
 
