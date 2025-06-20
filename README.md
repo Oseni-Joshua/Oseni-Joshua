@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm [OSENI-JOSHUA-OLAKUNLE ]!
+# 👋 Hey there, I'm OSENI-JOSHUA-OLAKUNLE...OJO
 
 Welcome to my corner of GitHub! I'm a curious developer who loves turning caffeine into code ☕💻. Whether I'm squashing bugs, building beautiful UIs, or exploring new frameworks, I'm always learning something new and having fun along the way!
 
@@ -7,8 +7,8 @@ Welcome to my corner of GitHub! I'm a curious developer who loves turning caffei
 ## 📌 About Me
 
 - 🧑‍💻 I'm a passionate software developer who loves clean code and creative solutions.
-- 🎯 Currently working on [Your current project or focus].
-- 🌍 Based in [Your Country/City].
+- 🎯 Currently working on Your current project or focus.
+- 🌍 Based in Your Country/City.
 - 🕹️ I enjoy building apps, learning new tech, and geeking out over cool dev tools.
 - 🚀 My goal is to keep growing and help others grow too!
 
